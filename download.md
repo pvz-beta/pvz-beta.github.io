@@ -21,4 +21,4 @@ description: "植物大战僵尸β版下载"
 
 <br/>
 
-内测版本请加入管方 QQ 群 [538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt) 在群文件中下载。
+内测版本请加入官方 QQ 群 [538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt)，在群文件中下载。
