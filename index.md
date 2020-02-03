@@ -11,6 +11,14 @@ description: "植物大战僵尸β版 非官方主页"
 
 （主页正在完善中，点击这里进入下载页：[下载页](/download.html)）
 
+鸣谢制作人员：
+代码修改+写入：
+[Dr丶小黑](http://tieba.baidu.com/home/main?un=%E7%89%9B%E4%BA%8C%E9%BE%99%E7%96%BC) （[bilibili 主页](https://space.bilibili.com/12952765)）
+[康师傅豆腐](http://tieba.baidu.com/home/main?un=%E5%BA%B7%E5%B8%88%E5%82%85%E8%B1%86%E8%85%90) （[bilibili 主页](https://space.bilibili.com/98965051)）
+
+
+## 游戏截图
+
 ![截图1](https://imgsa.baidu.com/forum/w%3D580/sign=51a6c9085ae736d158138c00ab524ffc/e0f9a7cc7cd98d10e8418be52f3fb80e7aec9076.jpg)
 
 ![截图2](https://imgsa.baidu.com/forum/w%3D580/sign=4345f5f4b712c8fcb4f3f6c5cc0192b4/beeb3fc79f3df8dce0ce0845c311728b46102813.jpg)
