@@ -30,8 +30,10 @@ logo: "/favicon.ico"
 search_enabled: false
 
 aux_links:
-  "官方帖子":
+  "贴吧帖子":
     - "https://tieba.baidu.com/p/6213298134"
+  "官方 QQ 群"
+    - "https://jq.qq.com/?_wv=1027&k=5aAFsMt"
 
 footer_content: "Copyright 2020 Glavo. All rights reserved."
 
