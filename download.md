@@ -9,7 +9,9 @@ description: "植物大战僵尸β版下载"
 
 作者将文件发布于百度云上，访问下面的链接即可下载：
 
-[PVZ beta](https://pan.baidu.com/s/1Zpbiy_4ZH7dt1FPhghJ2Fg) 提取码：30iw
+[百度云 PVZ beta](https://pan.baidu.com/s/1Zpbiy_4ZH7dt1FPhghJ2Fg) 提取码：30iw
+
+<br/>
 
 整合包可以从我提供的镜像直链直接下载，下载速度很快：
 
@@ -17,5 +19,6 @@ description: "植物大战僵尸β版下载"
 
 如果镜像没有及时更新，请联系我的 QQ [360736041](http://wpa.qq.com/msgrd?v=3&uin=360736041&site=qq&menu=yes) 提醒我。
 
+<br/>
 
 内测版本请加入管方 QQ 群 [538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt) 在群文件中下载。
