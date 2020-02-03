@@ -23,10 +23,9 @@ email: zjx001202@gmail.com
 description: 植物大战僵尸β版非官方站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pvz-beta.site" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CattusGlavo
-github_username:  Glavo
 logo: "/favicon.ico"
 
+heading_anchors: true
 search_enabled: false
 
 aux_links:
