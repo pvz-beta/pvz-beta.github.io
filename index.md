@@ -5,13 +5,17 @@ nav_order: 1
 description: "植物大战僵尸β版 非官方主页"
 ---
 
+<span class="fs-8">
+[下载植物大战僵尸β版](https://pvz-beta.site/download.html){: .btn .btn-green }
+</span>
+
 注意：这里只是爱好者为方便获取资源自行搭建的非官方站点，反馈问题请移步贴吧官方帖：[和朋友一起修改的PVZ改版，有兴趣的小伙伴来玩玩](https://tieba.baidu.com/p/6213298134)，或者加入官方 QQ 群 [538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt)。
 
 网站相关内容请在[贴吧帖子](https://tieba.baidu.com/p/6473144188)中回复，或者联系我的 QQ [360736041](/warn.html)。
 
 # 植物大战僵尸β版 (非官方站)
 
-**下载游戏请访问下载页: [下载植物大战僵尸β版](/download.html)**
+**下载游戏请访问下载页: [下载](/download.html)**
 
 （主页正在完善中）
 
