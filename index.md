@@ -13,7 +13,7 @@ description: "植物大战僵尸β版 非官方主页"
 
 ## **下载游戏请访问[下载页](/download.html)：**
 
-[下载植物大战僵尸β版](https://pvz-beta.site/download.html){: .btn .btn-purple }
+[下载植物大战僵尸β版](https://pvz-beta.site/download.html){: .btn .btn-green }
 
 
 （主页正在完善中）
