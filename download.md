@@ -7,11 +7,11 @@ description: "植物大战僵尸β版下载"
 
 # 下载植物大战僵尸β版
 
-**整合包下载（推荐）**，解压缩就可以直接玩：
+**整合包下载（推荐）**：
 
-**[植物大战僵尸β版整合包.7z](https://glavo-mirrors.oss-cn-beijing.aliyuncs.com/pvz-beta/5.60/%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%CE%B2%E7%89%88%E6%95%B4%E5%90%88%E5%8C%85.7z)**
+**[植物大战僵尸β版整合包.7z](https://www.lanzous.com/i96gcad)**
 
-
+整合包已经包含了游戏本体，解压即可。其中有一系列
 
 <br/>
 
