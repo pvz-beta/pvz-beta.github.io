@@ -11,7 +11,7 @@ description: "植物大战僵尸β版下载"
 
 ## **整合包下载（推荐）**
 
-**点击这里下载 → [植物大战僵尸β版整合包.7z](https://www.lanzous.com/i96gcad)**
+**点击这里下载 → [植物大战僵尸β版整合包.7z](https://www.lanzous.com/i98fazc)**
 
 下载后请将文件夹完整解压出来。整合包已经包含了游戏本体，其中 `PlantsVsZombies.exe` 就是β版最新版本（5.60）的游戏文件，打开即可。
 
