@@ -1,0 +1,14 @@
+---
+layout: default
+title: 整合包更新日志
+nav_exclude: true
+description: "整合包更新日志"
+---
+
+### v1.1.0 (2020-02-11)
+
+* 更新游戏本体为汉化3.1版
+
+### v1.0.0 (2020-02-09)
+
+* 更新至 β5.60 版，添加了 `PlantsVsZombies.exe`
