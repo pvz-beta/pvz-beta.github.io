@@ -15,9 +15,13 @@ description: "植物大战僵尸β版 非官方主页"
 
 # 植物大战僵尸β版 (非官方站)
 
-**下载游戏请访问下载页: [下载植物大战僵尸β版](/download.html)**
+- **下载游戏请访问下载页: [下载植物大战僵尸β版](/download.html)**
 
-（主页正在完善中）
+- **如果你遇到了游戏相关问题，可以先到[常见问题](/problems.html)页面来找找解决方案。如果该页面没有解决你的问题，可以到[植物大战僵尸贴吧]([https://tieba.baidu.com/f?kw=%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8&ie=utf-8](https://tieba.baidu.com/f?kw=植物大战僵尸&ie=utf-8))寻找答案或者提问**
+
+- 植物大战僵尸β版是玩家制作的修改版，想要下载原版或者其他修改版，请再[**PVZ主要资源下载**](http://pvz2.lonelystar.org/download.htm)里寻找你需要的（感谢植吧[囧丫乙]([http://tieba.baidu.com/home/main?un=%E5%9B%A7%E4%B8%AB%E4%B9%99](http://tieba.baidu.com/home/main?un=囧丫乙))搭建的这个网站）
+
+<br/>
 
 **鸣谢制作人员：**
 
