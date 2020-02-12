@@ -5,7 +5,7 @@ nav_order: 4
 description: "植物大战僵尸β版常见问题"
 ---
 
-#### 问题：Windows 10 游戏安装好后弹出 29 个 Fatal Error 弹窗怎么办？
+### 问题：Windows 10 游戏安装好后弹出 29 个 Fatal Error 弹窗怎么办？
 
 ![17txoQ.png](https://s2.ax1x.com/2020/02/12/17txoQ.png)
 
