@@ -22,7 +22,7 @@ title: 植物大战僵尸β版
 email: zjx001202@gmail.com
 description: 植物大战僵尸β版非官方站
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
 
 heading_anchors: true
