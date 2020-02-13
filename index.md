@@ -36,14 +36,14 @@ description: "植物大战僵尸β版 非官方主页"
 
 ## 游戏截图
 
-![截图1](https://s2.ax1x.com/2020/02/04/1BSX9g.png)
+![截图1](https://s2.ax1x.com/2020/02/13/1OI7fU.png)
 
-![截图2](https://s2.ax1x.com/2020/02/04/1BSxjs.jpg)
+![截图2](https://s2.ax1x.com/2020/02/13/1OIWOs.jpg)
 
-![截图3](https://s2.ax1x.com/2020/02/04/1BpSun.jpg)
+![截图3](https://s2.ax1x.com/2020/02/13/1OIhmn.jpg)
 
-![截图4](https://s2.ax1x.com/2020/02/04/1Bp9H0.gif)
+![截图4](https://s2.ax1x.com/2020/02/13/1OIokV.gif)
 
-![截图5](https://s2.ax1x.com/2020/02/04/1BppBq.png)
+![截图5](https://s2.ax1x.com/2020/02/13/1OI5T0.png)
 
-![截图6](https://s2.ax1x.com/2020/02/04/1BpPEV.png)
+![截图6](https://s2.ax1x.com/2020/02/13/1OI4wq.png)
