@@ -9,6 +9,10 @@ description: "植物大战僵尸β版 非官方主页"
 
 **网站相关内容**（游戏问题勿扰）请在[贴吧帖子](https://tieba.baidu.com/p/6473144188)中回复，或者联系我的 QQ [360736041](http://wpa.qq.com/msgrd?v=3&uin=360736041&site=qq&menu=yes)，也可以在 bilibili 找我的账号 [Glavo](https://space.bilibili.com/20314891)。
 
+<span class="fs-8">
+[下载植物大战僵尸β版](/download.html){: .btn .btn-green }
+</span>
+
 # 植物大战僵尸β版 (非官方站)
 
 - **下载游戏请访问下载页: [下载植物大战僵尸β版](/download.html)**
@@ -20,10 +24,6 @@ description: "植物大战僵尸β版 非官方主页"
 
 
 <br/>
-
-<span class="fs-8">
-[下载植物大战僵尸β版](/download.html){: .btn .btn-green }
-</span>
 
 ### 鸣谢制作人员：
 
