@@ -7,7 +7,7 @@ description: "植物大战僵尸β版特性"
 
 ## 植物大战僵尸β版特性
 
-如有错漏或更新不及时的内容，请联系我修改（QQ [360736041](http://wpa.qq.com/msgrd?v=3&uin=360736041&site=qq&menu=yes)）。
+如有错漏或更新不及时的内容，请在[植物大战僵尸β版网站问题反馈处](https://docs.qq.com/form/fill/DY2hYVEZJaFdVTmpI?_w_tencentdocx_form=1)反馈。
 
 ### 植物部分
 

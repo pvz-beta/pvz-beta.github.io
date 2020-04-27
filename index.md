@@ -7,7 +7,7 @@ description: "植物大战僵尸β版 非官方主页"
 
 反馈问题请移步作者贴吧帖：[和朋友一起修改的PVZ改版，有兴趣的小伙伴来玩玩](https://tieba.baidu.com/p/6213298134)，或者加入官方 QQ 群 [538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt)。
 
-**网站相关内容**（游戏问题勿扰）请在[贴吧帖子](https://tieba.baidu.com/p/6473144188)中回复，或者联系我的 [QQ](http://wpa.qq.com/msgrd?v=3&uin=360736041&site=qq&menu=yes)，也可以在 bilibili 找我的账号 [Glavo](https://space.bilibili.com/20314891)。
+**网站相关内容**（游戏问题勿扰）请在[植物大战僵尸β版网站问题反馈处](https://docs.qq.com/form/fill/DY2hYVEZJaFdVTmpI?_w_tencentdocx_form=1)反馈，也可以在 bilibili 找我的账号 [Glavo](https://space.bilibili.com/20314891)。
 
 **游戏 bug 反馈**：[PVZ β 版 bug 反馈处](https://docs.qq.com/form/fill/DSUJmdkNleGpTS1hi#/fill)
 
