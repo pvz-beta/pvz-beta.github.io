@@ -39,7 +39,7 @@ description: "植物大战僵尸β版下载"
 
 [PVZ beta](https://glavo.lanzous.com/b00z7v7ri)
 
-或者选择百度网盘下载（速度慢，不推荐）：
+或者选择百度网盘下载：
 
 [PVZ beta - 百度网盘](https://pan.baidu.com/s/1Zpbiy_4ZH7dt1FPhghJ2Fg) 提取码：`30iw`
 
