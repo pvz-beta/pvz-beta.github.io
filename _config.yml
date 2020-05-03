@@ -25,6 +25,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
 
+game_version: "5.85"
+pack_version: "1.6.0"
+
+pack_exe_link: "https://glavo.lanzous.com/ib6xi8b"
+pack_7z_link:  "https://glavo.lanzous.com/ib6xjaj"
+
 heading_anchors: true
 search_enabled: false
 
