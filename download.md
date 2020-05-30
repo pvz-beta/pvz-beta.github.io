@@ -13,13 +13,13 @@ description: "植物大战僵尸β版下载"
 
 **点击这里下载安装包 ===> [植物大战僵尸β版整合包v{{ site.pack_version }}.exe]({{ site.pack_exe_link }}) <=== 点击这里下载安装包**
 
-备用地址：[植物大战僵尸β版整合包v{{ site.pack_version }}.exe - 城通网盘]({{ site.pack_exe_link_chengtong }})
+备用地址（城通网盘）：[植物大战僵尸β版整合包v{{ site.pack_version }}.exe - 城通网盘]({{ site.pack_exe_link_chengtong }})
 
 如果不想安装，也可以下载免安装压缩包：**[植物大战僵尸β版整合包v{{ site.pack_version }}.7z]({{ site.pack_7z_link }})**
 
-备用地址：[植物大战僵尸β版整合包v{{ site.pack_version }}.7z - 城通网盘]({{ site.pack_7z_link_chengtong }})
+备用地址（城通网盘）：[植物大战僵尸β版整合包v{{ site.pack_version }}.7z - 城通网盘]({{ site.pack_7z_link_chengtong }})
 
-**注意：默认下载地址来自蓝奏云，近期部分地方因未知原因（可能是被 DNS 污染）无法访问，如果无法下载请使用城通网盘的备用地址，下载页选择“普通下载”即可。**
+**注意：默认下载地址来自蓝奏云，近期部分地方遭受 DNS 污染无法访问，如果无法下载请使用城通网盘的备用地址，下载页选择“普通下载”即可。城通网盘下载速度一般，并且有广告，请谅解。城通网盘每次下载会为网站提供 0.01 元的收入，如果愿意支持网站，可以选择从城通网盘下载为分担一部分网站的维护成本，谢谢。**
 
 因为修复了一些崩溃问题，以及加入游戏开始时的弹窗，从 β5.60 开始游戏可能会被一些杀软误报为病毒。
 
@@ -45,9 +45,9 @@ description: "植物大战僵尸β版下载"
 
 [PVZ beta](https://glavo.lanzous.com/b00z7v7ri)
 
-或者选择百度网盘下载：
+或者选择城通网盘下载：
 
-[PVZ beta - 百度网盘](https://pan.baidu.com/s/1Zpbiy_4ZH7dt1FPhghJ2Fg) 提取码：`30iw`
+[PVZ beta - 城通网盘](https://306t.com/dir/27421803-39214653-08a7da)
 
 <br/>
 
