@@ -31,6 +31,9 @@ pack_version: "6.00-R1"
 pack_exe_link: "https://glavo.lanzous.com/ic815zg"
 pack_7z_link:  "https://glavo.lanzous.com/ic815ja"
 
+pack_exe_link_chengtong: "https://306t.com/file/27421803-445933381"
+pack_7z_link_chengtong:  "https://306t.com/file/27421803-446082218"
+
 heading_anchors: true
 search_enabled: false
 
