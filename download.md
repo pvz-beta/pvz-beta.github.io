@@ -45,9 +45,13 @@ description: "植物大战僵尸β版下载"
 
 [PVZ beta](https://glavo.lanzous.com/b00z7v7ri)
 
-或者选择城通网盘下载：
+（备选）城通网盘下载：
 
 [PVZ beta - 城通网盘](https://306t.com/dir/27421803-39214653-08a7da)
+
+（备选）百度网盘下载（由游戏制作者维护，若其他地方没有及时更新，可以来这里看看）：
+
+[PVZ beta - 百度网盘](http://pan.baidu.com/s/1zsfj2X1supY31snw7JWh4g)  提取码：`ej5h`
 
 <br/>
 
