@@ -25,14 +25,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
 
-game_version: "6.00"
-pack_version: "6.00-R1"
+game_version: "6.05"
+pack_version: "6.05-R1"
 
-pack_exe_link: "https://glavo.lanzous.com/ic815zg"
-pack_7z_link:  "https://glavo.lanzous.com/ic815ja"
+pack_exe_link: "https://glavo.lanzous.com/id679lg"
+pack_7z_link:  "https://glavo.lanzous.com/id677be"
 
-pack_exe_link_chengtong: "https://306t.com/file/27421803-445933381"
-pack_7z_link_chengtong:  "https://306t.com/file/27421803-446082218"
+pack_exe_link_chengtong: "https://306t.com/file/27421803-446487014"
+pack_7z_link_chengtong:  "https://306t.com/file/27421803-446487066"
 
 heading_anchors: true
 search_enabled: false
