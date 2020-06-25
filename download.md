@@ -5,10 +5,6 @@ nav_order: 2
 description: "植物大战僵尸β版下载"
 ---
 
-# 下载植物大战僵尸β版
-
-注意：植物大战僵尸β版目前只有 Windows 版，**不支持手机和 Mac**。
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -20,6 +16,10 @@ description: "植物大战僵尸β版下载"
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+# 下载植物大战僵尸β版
+
+注意：植物大战僵尸β版目前只有 Windows 版，**不支持手机和 Mac**。
 
 ## **整合包下载（推荐）**
 
@@ -51,7 +51,7 @@ description: "植物大战僵尸β版下载"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="2311879209"></ins>
+     data-ad-slot="9461695198"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
