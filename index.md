@@ -16,6 +16,17 @@ description: "植物大战僵尸β版 非官方主页"
 [下载植物大战僵尸β版](/download.html){: .btn .btn-green }
 </span>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6942296954592310"
+     data-ad-slot="2311879209"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 # 植物大战僵尸β版
 
 - **下载游戏请访问下载页: [下载植物大战僵尸β版](/download.html)**
@@ -35,6 +46,21 @@ description: "植物大战僵尸β版 非官方主页"
 [Dr丶小黑](http://tieba.baidu.com/home/main?un=%E7%89%9B%E4%BA%8C%E9%BE%99%E7%96%BC) （[bilibili 主页](https://space.bilibili.com/12952765)）
 
 [康师傅豆腐](http://tieba.baidu.com/home/main?un=%E5%BA%B7%E5%B8%88%E5%82%85%E8%B1%86%E8%85%90) （[bilibili 主页](https://space.bilibili.com/98965051)）
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6942296954592310"
+     data-ad-slot="2311879209"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 
 
 ## 游戏截图

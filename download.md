@@ -9,6 +9,18 @@ description: "植物大战僵尸β版下载"
 
 注意：植物大战僵尸β版目前只有 Windows 版，**不支持手机和 Mac**。
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6942296954592310"
+     data-ad-slot="2311879209"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## **整合包下载（推荐）**
 
 **点击这里下载安装包 ===> [植物大战僵尸β版整合包v{{ site.pack_version }}.exe]({{ site.pack_exe_link }}) <=== 点击这里下载安装包**
@@ -32,6 +44,17 @@ description: "植物大战僵尸β版下载"
 整合包路径中 `PlantsVsZombies.exe` 是β版最新版本（β{{ site.game_version }}）的游戏文件，安装游戏时也会在桌面（安装时可选）和开始菜单种创建快捷方式，双击打开即可。从整合包 v1.6.0 开始，由于字体原因[^1]，整合包不再打包旧版本文件，想尝试旧版本游戏，请[单独下载 β 版](#单独下载-β-版)。
 
 点此查看[整合包更新日志](/pack-logs.html)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6942296954592310"
+     data-ad-slot="2311879209"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <br/>
 
