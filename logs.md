@@ -5,6 +5,17 @@ nav_order: 5
 description: "更新日志"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6942296954592310"
+     data-ad-slot="2311879209"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 更新日志
 
 ### β6.05-1 (2020-05-31)

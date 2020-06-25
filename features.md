@@ -5,6 +5,19 @@ nav_order: 3
 description: "植物大战僵尸β版特性"
 ---
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6942296954592310"
+     data-ad-slot="2311879209"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
 ## 植物大战僵尸β版特性
 
 如有错漏或更新不及时的内容，请在[植物大战僵尸β版网站问题反馈处](https://docs.qq.com/form/fill/DY2hYVEZJaFdVTmpI?_w_tencentdocx_form=1)反馈。
