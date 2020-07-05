@@ -63,14 +63,3 @@ description: "植物大战僵尸β版 非官方主页"
 ![截图5](https://s2.ax1x.com/2020/02/13/1OI5T0.png)
 
 ![截图6](https://s2.ax1x.com/2020/02/13/1OI4wq.png)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="9461695198"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
