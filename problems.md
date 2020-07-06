@@ -5,17 +5,6 @@ nav_order: 4
 description: "植物大战僵尸β版常见问题"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="2311879209"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 如果下面这些没有解决你的问题，请到[植物大战僵尸贴吧](https://tieba.baidu.com/f?kw=植物大战僵尸)寻找答案或者提问。
 
 * [Windows 10 弹出 29 个 Fatal Error 弹窗](#问题windows-10-游戏安装好后弹出-29-个-fatal-error-弹窗怎么办)

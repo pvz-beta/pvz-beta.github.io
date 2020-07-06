@@ -5,18 +5,6 @@ nav_order: 2
 description: "植物大战僵尸β版下载"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="2311879209"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 # 下载植物大战僵尸β版
 
 注意：植物大战僵尸β版目前只有 Windows 版，**不支持手机和 Mac**。
@@ -70,18 +58,6 @@ description: "植物大战僵尸β版下载"
 内测版本请加入官方 QQ 群 [538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt)，在群文件中下载。
 
 <br/>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="2311879209"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 
 [^1]: 整合包选择汉化 2 版作为主体，相比汉化 1 版更加流畅，但当游戏文件名不是 `PlantsVsZombies.exe` 或者没有打开 3D 加速时字体渲染会产生问题。

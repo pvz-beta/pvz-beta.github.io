@@ -24,6 +24,7 @@ description: 植物大战僵尸β版非官方站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
+lang: zh-CN
 
 game_version: "6.05"
 pack_version: "6.05-R2"
