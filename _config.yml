@@ -26,14 +26,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
 lang: zh-CN
 
-game_version: "6.05"
-pack_version: "6.05-R2"
+game_version: "6.10"
+pack_version: "6.10-R1"
 
-pack_exe_link: "https://glavo.lanzous.com/id6ejyb"
-pack_7z_link:  "https://glavo.lanzous.com/id6eipg"
+pack_exe_link: "https://www.lanzoux.com/iaomSed1qji"
+pack_7z_link:  "https://www.lanzoux.com/iRSp9ed1qod"
 
-pack_exe_link_chengtong: "https://306t.com/file/27421803-446507207"
-pack_7z_link_chengtong:  "https://306t.com/file/27421803-446507250"
+pack_exe_link_chengtong: "https://306t.com/file/27421803-452154689"
+pack_7z_link_chengtong:  "https://306t.com/file/27421803-452154680"
 
 heading_anchors: true
 search_enabled: false
