@@ -42,7 +42,7 @@ aux_links:
   "下载游戏":
     - "/download.html"
 
-footer_content: "Copyright 2020 Glavo. All rights reserved."
+footer_content: "Copyright 2020 Glavo. All rights reserved.   鄂ICP备20002499号-1"
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
