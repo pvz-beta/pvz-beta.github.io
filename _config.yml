@@ -45,7 +45,7 @@ aux_links:
 footer_content: "Copyright 2020 Glavo. All rights reserved.   鄂ICP备20002499号-1"
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.3.1
 # theme: "just-the-docs"
 plugins:
   - jekyll-remote-theme
