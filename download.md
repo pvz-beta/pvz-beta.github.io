@@ -48,7 +48,7 @@ description: "植物大战僵尸β版下载"
 
 ## 单独下载 β 版
 
-这里提供 β 版独立 exe 下载。**独立的 exe 文件必须放在游戏主体文件夹内才能运行**，否则运行时会提示没有找到 `GDI42.dll`。如果你还没有游戏本体，可以点击这里下载植物大战僵尸汉化 1 版：[Plants_Vs_Zombies_V1.0.0.1051_CN_V1.7z](https://glavo.lanzous.com/iarzana)
+这里提供 β 版独立 exe 下载。**独立的 exe 文件必须放在游戏主体文件夹内才能运行**，否则运行时会提示没有找到 `GDI42.dll`。如果你还没有游戏本体，可以点击这里下载植物大战僵尸汉化 1 版：[Plants_Vs_Zombies_V1.0.0.1051_CN_V1.7z](https://www.lanzoux.com/iarzana)
 
 然后在下方的链接中下载你想玩的版本的 exe 文件，再将 exe 放置到游戏文件夹中，点开即可。
 
