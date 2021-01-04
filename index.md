@@ -5,17 +5,6 @@ nav_order: 1
 description: "植物大战僵尸β版 非官方主页"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="2311879209"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 反馈问题请移步作者贴吧帖：[和朋友一起修改的PVZ改版，有兴趣的小伙伴来玩玩](https://tieba.baidu.com/p/6674551694)，或者加入官方 QQ 群 : [1群：538081554](https://jq.qq.com/?_wv=1027&k=5aAFsMt)， 2群：1043354031， 3群：700384971。
 
 
