@@ -5,17 +5,6 @@ nav_exclude: true
 description: "自述"
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-6942296954592310"
-     data-ad-slot="2311879209"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **自述文件待完善**
 
 * **如果遇到问题，请点击前往[常见问题](/problems.html)页面寻找解决方案，或者前往[植物大战僵尸贴吧](https://tieba.baidu.com/f?kw=植物大战僵尸)寻找答案或者提问**
