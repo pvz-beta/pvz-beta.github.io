@@ -26,8 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
 lang: zh-CN
 
-game_version: "6.15.11"
-pack_version: "6.20-R1"
+game_version: "6.20.2"
+pack_version: "6.20-R2"
 
 pack_exe_link: "https://www.lanzoux.com/iLOuIoy08fg"
 pack_7z_link:  "https://www.lanzoux.com/iwkGJoy084f"
