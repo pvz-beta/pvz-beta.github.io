@@ -27,15 +27,16 @@ logo: "/favicon.ico"
 lang: zh-CN
 
 game_version: "6.25.4.1"
-pack_version: "6.25-R3"
+pack_version: "6.25-R4"
 
-update_date: "2021-07-06"
+update_date:      "2021-07-06"
+pack_update_date: "2021-08-01"
 
-pack_exe_link: "https://www.lanzoux.com/iiN7Ir33mni"
-pack_7z_link:  "https://www.lanzoux.com/ifGvZr33lqf"
+pack_exe_link: "https://www.lanzoux.com/i3nPxs42u5e"
+pack_7z_link:  "https://www.lanzoux.com/iyPM7s42tpi"
 
-pack_exe_link_chengtong: "https://z701.com/f/27421803-501512407-3c4f4c"
-pack_7z_link_chengtong:  "https://z701.com/f/27421803-501512330-4ee828"
+pack_exe_link_chengtong: "https://z701.com/f/27421803-504401956-869d61"
+pack_7z_link_chengtong:  "https://z701.com/f/27421803-504401911-3d98f1"
 
 heading_anchors: true
 search_enabled: false
