@@ -7,9 +7,11 @@ description: "更新日志"
 
 ## 更新日志
 
+本页暂时可能不会积极更新，完整更新内容可在官方群群文件内找到。
+
 ### β6.25 (2021-07-03)
 
-更新介绍：[BV1eM4y1M7FF](https://www.bilibili.com/video/BV1eM4y1M7FF)
+B站视频：[\[官方\]植物大战僵尸Beta6.25更新介绍](https://www.bilibili.com/video/BV1eM4y1M7FF)
 
 (需要补充)
 

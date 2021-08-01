@@ -7,7 +7,7 @@ description: "植物大战僵尸β版下载"
 
 # 下载植物大战僵尸β版
 
-**游戏更新日期：{{ site.update_date }}**
+**游戏更新日期：  {{ site.update_date }}**
 
 **整合包更新日期：{{ site.pack_update_date }}**
 
