@@ -9,6 +9,8 @@ description: "更新日志"
 
 ### β6.25 (2021-07-03)
 
+更新介绍：[BV1eM4y1M7FF](https://www.bilibili.com/video/BV1eM4y1M7FF)
+
 (需要补充)
 
 ### β6.20.3 (2021-05-12)

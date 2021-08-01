@@ -9,7 +9,11 @@ description: "植物大战僵尸β版下载"
 
 **游戏更新日期：{{ site.update_date }}**
 
+更新介绍视频：[\[官方\]植物大战僵尸Beta6.25更新介绍](https://www.bilibili.com/video/BV1eM4y1M7FF)
+
 注意：植物大战僵尸β版目前只有 Windows 版，**不支持手机和 Mac**。
+
+安卓可用模拟器运行，请参见：[BV17b4y1k7i4](https://www.bilibili.com/video/BV17b4y1k7i4)。
 
 ## **整合包下载（推荐）**
 
