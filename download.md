@@ -19,11 +19,11 @@ description: "植物大战僵尸β版下载"
 
 **点击这里下载安装包 ===>  [植物大战僵尸β版整合包v{{ site.pack_version }}.exe - 城通网盘]({{ site.pack_exe_link_chengtong }}) 密码：`6057` <=== 点击这里下载安装包**
 
-下载地址2 **（高速）**（蓝奏云）：[植物大战僵尸β版整合包v{{ site.pack_version }}.exe]({{ site.pack_exe_link }})
+下载地址2（蓝奏云）：[植物大战僵尸β版整合包v{{ site.pack_version }}.exe]({{ site.pack_exe_link }}) **（高速）**
 
 如果不想安装，也可以下载免安装压缩包：**[植物大战僵尸β版整合包v{{ site.pack_version }}.7z - 城通网盘]({{ site.pack_7z_link_chengtong }}) 密码：`6057`**
 
-下载地址2 **（高速）**（蓝奏云）：[植物大战僵尸β版整合包v{{ site.pack_version }}.7z]({{ site.pack_7z_link }})
+下载地址2（蓝奏云）：[植物大战僵尸β版整合包v{{ site.pack_version }}.7z]({{ site.pack_7z_link }}) **（高速）**
 
 **注意：城通网盘下载速度一般，并且有广告，需要更快速的下载可以尝试使用蓝奏云的下载链接。城通网盘每次下载会为网站提供 0.01 元的收入，如果愿意支持网站，可以选择从城通网盘下载为分担一部分网站的维护成本。**
 
