@@ -37,7 +37,6 @@ description: "植物大战僵尸β版下载"
 如果因为打开3D加速导致游戏无法正常运行，请下载 [close-3d.reg](/close-3d.reg)，双击运行即可关闭3D加速。
 
 **游戏 bug 反馈**：[PVZ β 版 bug 反馈处](https://docs.qq.com/form/fill/DSUJmdkNleGpTS1hi#/fill)
-
 <!--整合包路径中 `PlantsVsZombies.exe` 是β版最新版本（β{{ site.game_version }}）的游戏文件，安装游戏时也会在桌面（安装时可选）和开始菜单种创建快捷方式，双击打开即可。从整合包 v1.6.0 开始，由于字体原因[^1]，整合包不再打包旧版本文件，想尝试旧版本游戏，请[单独下载 β 版](#单独下载-β-版)。-->
 
 点此查看[整合包更新日志](/pack-logs.html)
@@ -52,11 +51,11 @@ description: "植物大战僵尸β版下载"
 
 在此处可下载 β 版游戏 exe：
 
-[PVZ beta](https://glavo.lanzous.com/b00z7v7ri)
-
-（备选）城通网盘下载：
-
 [PVZ beta - 城通网盘](https://306t.com/dir/27421803-39214653-08a7da) **密码：`6057`**
+
+（高速）蓝奏云下载：
+
+[PVZ beta - 蓝奏云](https://glavo.lanzous.com/b00z7v7ri)
 
 （备选）百度网盘下载（由游戏制作者维护，若其他地方没有及时更新，可以来这里看看）：
 
