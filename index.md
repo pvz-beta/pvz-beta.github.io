@@ -27,7 +27,6 @@ description: "植物大战僵尸β版 主页"
 * [2群：1043354031](https://jq.qq.com/?_wv=1027&k=I0OrnUeD)
 * [3群：700384971](https://jq.qq.com/?_wv=1027&k=9GGIk4ln)
 * [4群：625234549](https://jq.qq.com/?_wv=1027&k=MukiJQpS)
-* 5群：1150947071
 
 **网站相关内容（游戏问题勿扰）**请在[植物大战僵尸β版网站问题反馈处](https://docs.qq.com/form/fill/DY2hYVEZJaFdVTmpI?_w_tencentdocx_form=1)反馈，也可以在 bilibili 找本站维护者的账号 [Glavo](https://space.bilibili.com/20314891)（游 戏 问 题 勿 扰 ！）。
 
