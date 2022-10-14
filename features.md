@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 特性
-nav_order: 3
+nav_exclude: true
+#nav_order: 3
 description: "植物大战僵尸β版特性"
 ---
 

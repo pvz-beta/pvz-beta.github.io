@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 更新日志
-nav_order: 5
+nav_exclude: true
+#nav_order: 5
 description: "更新日志"
 ---
 

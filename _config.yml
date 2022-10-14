@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 植物大战僵尸β版
+# title: 植物大战僵尸β版
+title: 喵呜的日记
 email: zjx001202@gmail.com
 description: 植物大战僵尸β版非官方站
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -41,9 +42,9 @@ pack_7z_link_chengtong:  "https://z701.com/f/27421803-504401911-3d98f1"
 heading_anchors: true
 search_enabled: false
 
-aux_links:
-  "下载游戏":
-    - "/download.html"
+#aux_links:
+#  "下载游戏":
+#    - "/download.html"
 
 footer_content: "© 2009-2021 Aliyun.com 版权所有 "
 

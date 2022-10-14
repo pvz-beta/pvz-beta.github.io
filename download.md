@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 下载
-nav_order: 2
+nav_exclude: true
+#nav_order: 2
 description: "植物大战僵尸β版下载"
 ---
 
