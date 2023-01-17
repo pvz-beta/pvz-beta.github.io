@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: 植物大战僵尸β版
-title: 喵呜的日记
+title: 植物大战僵尸β版
+# title: 喵呜的日记
 email: zjx001202@gmail.com
-description: 植物大战僵尸β版非官方站
+description: 植物大战僵尸β版网站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/favicon.ico"
