@@ -5,6 +5,8 @@ nav_order: 1
 description: "植物大战僵尸β版 主页"
 ---
 
+本站点有时可能无法访问，欢迎前往备用站：[植物大战僵尸β版 - Gitee](https://gitee.com/Glavo/pvz-beta/blob/master/README.md)
+
 # 植物大战僵尸β版
 
 **游戏更新日期：{{ site.update_date }}**
